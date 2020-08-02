@@ -1,0 +1,6 @@
+Why would I use the filter function?
+  The filter function allows the developer to filter through json quickly to pull out the information needed.
+Why would I use the map function?
+  The map function allows the developer to format objects from json into the desired layout.
+Why would I use the reduce function?
+  The reduce function allows the developer to sum counts of json, and condenses the amount of actual code in the js file.
